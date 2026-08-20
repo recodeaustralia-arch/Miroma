@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/PartnerIntegration.Api.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LOtdw4ZIbmV65RhGO4QGVGPUISJll14HJyMKlmBjRs4=",
+  "Source": "PartnerIntegration.Api",
+  "BasePath": "_content/PartnerIntegration.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

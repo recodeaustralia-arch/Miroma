@@ -1,0 +1,14 @@
+@PartnerIntegration.Api_HostAddress = http://localhost:5080
+@ApiKey = dev-partner-api-key
+
+POST {{PartnerIntegration.Api_HostAddress}}/api/v1/partner/transactions
+Content-Type: application/json
+X-Api-Key: {{ApiKey}}
+
+{
+  "partnerId": "P-1001",
+  "transactionReference": "TXN-99823",
+  "amount": 250.00,
+  "currency": "USD",
+  "timestamp": "2024-05-10T14:30:00Z"
+}
